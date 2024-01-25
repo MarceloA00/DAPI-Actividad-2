@@ -12,3 +12,6 @@ Desarrollo de Aplicaciones iOS, Actividad 1 - Magic Number
 
 
 ## Parte 2
+![image](https://github.com/MarceloA00/DAPI-Actividad-2/assets/61481738/7a783f72-db1e-410a-8b30-ecfcf0ff9153)
+<br>
+En este caso la mayoria de los ouputs terminan siendo ints, aun aquellos que no lo deberian ser para ser exactos como en el de la regla de 3 que si hiceramos el calculo con calculador tendriamos un numero con espacios decimales pero ya que las variables usadas son de tipo int, la variable que contiene el resultado se guia con esas. Mientras tanto en el la de volumen del cilindro ya que tuvimos que convertir la variable 'a' y 'b' a double pues si no lo haciamos no podria funcionar la funcion 'pow' el resultado se guio por la conversion y termino siendo de tipo double.
